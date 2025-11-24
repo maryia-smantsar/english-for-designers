@@ -2,7 +2,7 @@
 layout: default
 title: English For Designers | Maryia Smantsar
 description: A portfolio exploring the reuse of hair as organic typography, emphasizing sustainability and design principles.
-image: me
+image: me.jpeg
 ---
 
 # About me
