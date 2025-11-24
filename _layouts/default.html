@@ -1,20 +1,22 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Masha's site</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masha's site</title>
 
-    <meta name="title" property="og:title" content="{{ page.title }}">
-    
-    <link rel="stylesheet" href="https://unpkg.com/@primer/css@^20.0.0/dist/primer.css" fetchpriority="high">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="https://unpkg.com/@primer/css@^20.0.0/dist/primer.css" fetchpriority="high">
 
     <style>
         .markdown-body p { 
             line-height: 1.5 !important;
         }
     </style>
-    </head>
+</head>
 <body class="markdown-body container-lg mx-auto my-5 p-3">
 
 {{ content }}
