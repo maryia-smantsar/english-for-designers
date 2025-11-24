@@ -1,3 +1,10 @@
+---
+layout: default
+title: English For Designers | Maryia Smantsar
+description: A portfolio exploring the reuse of hair as organic typography, emphasizing sustainability and design principles.
+image: https://github.com/user-attachments/assets/c0ba6c99-63c4-4c17-bbc7-600a68dc039e
+---
+
 # About me
 Hello! I’m Maryia, a Graphic Designer and Model. My strength lies in empathy—I build strong connections with people to create a seamless workflow. I focus on translating client wishes into functional, eye-catching designs that truly work. 
 
