@@ -14,4 +14,5 @@ Hello! I’m Mary, a multi-talented creative professional. My expertise lies in 
 Homeworks
 
 - [Project with Alt text](https://smantser2000-sketch.github.io/english-for-designers/pages/project_alt_text)
+- [Self presentation](https://smantser2000-sketch.github.io/english-for-designers/pages/self_presentation)
 
