@@ -21,3 +21,4 @@ This type specimen integrates hair as a design material, accompanied by a story 
 
 - [Detailed Alt Text for Variant 2](https://smantser2000-sketch.github.io/english-for-designers/alt-text/alt_2)
 
+- [Back to the main page](https://smantser2000-sketch.github.io/english-for-designers/)
