@@ -10,4 +10,6 @@ I had zero experience in Adobe programs, but I set an ambitious goal. Through tw
 
 Outside of design, I actively pursue my creative side as a model, which sharpens my eye for composition, lighting, and visual storytelling—skills that directly enhance my digital work. This, combined with developing my personal brand on social media, allows me to constantly explore diverse contexts of visual communication, connecting and inspiring others through both my presence and my projects.
 
+![photo_2025-12-07 19 41 45](https://github.com/user-attachments/assets/df050ab0-1d7e-495a-935a-5deef521924a)
+
 - [Back to the main page](https://smantser2000-sketch.github.io/english-for-designers/)
