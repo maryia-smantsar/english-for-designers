@@ -12,4 +12,4 @@ Outside of design, I actively pursue my creative side as a model, which sharpens
 
 ![photo_2025-12-07 19 41 45](https://github.com/user-attachments/assets/df050ab0-1d7e-495a-935a-5deef521924a)
 
-- [Back to the main page](https://smantser2000-sketch.github.io/english-for-designers/)
+- [Back to the main page](https://maryia-smantsar.github.io/english-for-designers/)
