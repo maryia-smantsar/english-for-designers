@@ -24,5 +24,6 @@ Hello! I’m Mary, a multi-talented creative professional. My expertise lies in 
 
 
 ***Summer semester***
+- [Today I learned: Stability is an Illusion](https://maryia-smantsar.github.io/english-for-designers/pages/til)
 - [Warhol site](https://maryia-smantsar.github.io/warhol-case-study/)
 - [Storytelling: Design as a Controlled Hallucination](https://maryia-smantsar.github.io/english-for-designers/pages/storytelling)
