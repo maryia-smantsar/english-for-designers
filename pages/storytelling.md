@@ -1,15 +1,10 @@
----
-layout: default
-title: Storytelling
----
-
 # Storytelling
 
 ***Design as a Controlled Hallucination***
 
 ![Slide 1](../assets/slide1.png)
 
-1. Design as a controlled hallucination: why we see what isn't there. By Maryia Smantsar.
+Design as a controlled hallucination: why we see what isn't there. By Maryia Smantsar.
 
 ![Slide 2](../assets/slide2.png) Have you ever felt your phone vibrate, pulled it out… and seen nothing? Yeah. Me too. All the time. I used to think I was just stressed. But actually — that moment has a name. It's called phantom vibration syndrome. And it's not a flaw. It's your brain doing exactly what it was built to do. It predicted a reality before reality showed up. And that tiny embarrassing moment changed how I think about everything I design.
 
