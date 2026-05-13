@@ -18,10 +18,10 @@ Hello! I’m Mary, a multi-talented creative professional. My expertise lies in 
 
 ---
 # Homeworks
-## Winter semester
+### Winter semester
 - [Project with Alt text](https://maryia-smantsar.github.io/english-for-designers/pages/project_alt_text)
 - [Self presentation](https://maryia-smantsar.github.io/english-for-designers/pages/self_presentation)
 
 
-## Summer semester
+### Summer semester
 - [Warhol site](https://maryia-smantsar.github.io/warhol-case-study/)
