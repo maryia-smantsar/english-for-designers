@@ -7,7 +7,7 @@ image: /assets/me.jpeg
 
 # English for designers
 About me
----
+
 Hello! I’m Mary, a multi-talented creative professional. My expertise lies in UI/UX Design and Digital Art, focusing on translating complex visions into seamless, user-friendly designs. My workflow is built on empathy, ensuring strong connections and effective results. Additionally, I'm a model and a budding content creator, always exploring new ways to connect and inspire.
 
 [More about me](https://maryia-smantsar.github.io/english-for-designers/pages/more_about_me)
@@ -18,7 +18,7 @@ Hello! I’m Mary, a multi-talented creative professional. My expertise lies in 
 
 ---
 # Homeworks
-## Winter semester
+Winter semester
 - [Project with Alt text](https://maryia-smantsar.github.io/english-for-designers/pages/project_alt_text)
 - [Self presentation](https://maryia-smantsar.github.io/english-for-designers/pages/self_presentation)
 
