@@ -1,58 +1,86 @@
-# Storytelling: Design as a Controlled Hallucination
-
-*By Maryia Smantsar*
-
----
-
-![Cover](../images/slide1.png)
-### Introduction
-This project explores why we see what isn't there and how our brain predicts reality before it even happens. It’s a journey from a simple phone vibration to the deep ethics of UI/UX design.
+# Storytelling
+***Design as a Controlled Hallucination***
 
 ---
 
-![The Phantom Vibration](../images/slide2.png)
-### The Phantom Vibration
-Have you ever felt your phone vibrate, pulled it out... and seen nothing? Yeah. Me too. All the time. I used to think I was just stressed. But actually — that moment has a name. It's called **phantom vibration syndrome**. It's your brain predicting reality before reality shows up.
+![Slide 1](../images/slide1.png)
+
+2026. Design as a controlled hallucination: why we see what isn't there. By Maryia Smantsar.
 
 ---
 
-![The Science of Perception](../images/slide3.png)
-### The Science of Perception
-Neuroscientist Anil Seth says: *"We are all hallucinating all the time."* Perception isn't passive; you're not recording the world. You're constructing it. Your brain generates a version of reality and then checks if it matches what's actually out there.
+![Slide 2](../images/slide2.png)
+
+Have you ever felt your phone vibrate, pulled it out... and seen nothing? Yeah. Me too. All the time. I used to think I was just stressed. But actually — that moment has a name. It's called phantom vibration syndrome. And it's not a flaw. It's your brain doing exactly what it was built to do. It predicted a reality before reality showed up. And that tiny embarrassing moment changed how I think about everything I design.
 
 ---
 
-![The Prediction Machine](../images/slide5.png)
-### The Prediction Machine
-Your brain paints reality in advance based on everything you've ever seen and learned. Your eyes just scan for errors. Most of the time — the prediction wins.
+![Slide 3](../images/slide3.png)
+
+Neuroscientist Anil Seth wrote a book called Being You. And in it he says something that sounds insane until it doesn't: "We are all hallucinating all the time." Not metaphorically. Literally. Perception isn't passive. You're not recording the world. You're constructing it. Your brain generates a version of reality — and then checks if it matches what's actually out there.
 
 ---
 
-![The Color Paradox](../images/slide6.png)
-### The Color Paradox: The Dress
-Same pixels. Same screen. Different realities. If your brain decides it's in a blue shadow — it filters the blue out, and you see gold. What you see isn't reality; it's your brain's best guess.
+![Slide 4](../images/slide4.png)
+
+We think of our eyes like cameras. Light goes in, brain processes the picture. But if the brain had to process everything from scratch every millisecond — it would break. So it found a shortcut.
 
 ---
 
-![The Shadow Paradox](../images/slide8.png)
-### The Shadow Paradox
-Square A and Square B are exactly the same grey. But your brain has a hardwired rule: things in shadow look darker. So it brightens square B without asking you. Even when you know the truth, you can't "unsee" the illusion.
+![Slide 5](../images/slide5.png)
+
+Your brain paints reality in advance. Based on everything you've ever seen and learned. Then your eyes just scan for errors. For anything that doesn't fit the prediction. Most of the time — the prediction wins.
 
 ---
 
-![Designing Deception](../images/slide11.png)
-### Designing Deception
-Designers know how the brain works, and some use it to deceive. Look at this unsubscribe screen: a big green button to "Stay". The user's brain sees **Green = Go** and clicks before reading. This is weaponizing expectations.
+![Slide 6](../images/slide6.png)
+
+The dress. Same pixels. Same screen. Different realities. How?
 
 ---
 
-![Designing for the Mental Model](../images/slide13.png)
-### Designing for the Mental Model
-Now look at Apple. For a destructive action, the button is **Red**. Because red means stop. Red means danger. One designer exploits the hallucination; one respects it. This is the choice I make every time I open Figma.
+![Slide 7](../images/slide7.png)
+
+Imagine you're looking at something outside. Is it under warm sunlight — or in cool blue shadow? That one guess changes everything your brain does next. If it decides — blue shadow — it filters the blue out. You see gold. If it decides — warm light — it filters the yellow out. You see blue. The pixels never changed. Your prediction did. What you see isn't reality. It's your brain's best guess about reality.
 
 ---
 
-### Conclusion
-Design is a controlled hallucination. The only question is: are you building one that respects the person inside it? I want to build the honest kind.
+![Slide 8](../images/slide8.png)
+
+Square A is in the light. Square B is in the shadow. Which is darker? A. Obviously.
 
 ---
+
+![Slide 9](../images/slide9.png)
+
+Watch. They're identical. Exactly the same grey. Your brain has one hardwired rule: things in shadow look darker than they are. So it brightened square B — without asking you. You can see the proof right now. You still can't unsee it.
+
+---
+
+![Slide 10](../images/slide10.png)
+
+This mask is hollow on the back. Completely concave. But every time it rotates toward you — your brain pops it out into a face. You know it's hollow. You're watching it happen. Doesn't matter. The prediction wins. Because in millions of years of evolution — faces were never hollow. The rule is too deep to override.
+
+---
+
+![Slide 11](../images/slide11.png)
+
+So. Designers know all of this. And we use it. The question is — how. Look at this unsubscribe screen. User wants to cancel. They see a big green button — and they click. Subscription renewed. Money taken. They never read a word. Their brain saw green and already decided.
+
+---
+
+![Slide 12](../images/slide12.png)
+
+Green means go. Green means yes. That designer knew exactly what the user's brain would predict. And they built the interface around that prediction — to serve the business, not the person. It works. Perfectly.
+
+---
+
+![Slide 13](../images/slide13.png)
+
+Now look at Apple. Same situation. Destructive action. The button is red. Because red means stop. Red means danger. Red means — are you sure? Same knowledge about how the brain works. Completely opposite choice. One designer exploits the hallucination. One respects it. That's the choice I think about every time I open Figma.
+
+---
+
+![Slide 14](../images/slide14.png)
+
+Back to the phantom vibration. Now it feels like the most important thing I know about my job. Design is a controlled hallucination. The only question is — are you building one that respects the person inside it? I want to build the honest kind. Thank you.
